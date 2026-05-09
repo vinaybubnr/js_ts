@@ -84,6 +84,10 @@ var lastName = "Johnson";
 var fullName = firstName + " " + lastName;
 console.log(fullName); // Output: Alice Johnson
 
+console.log("The value of PI is: " + PI); // Output: The value of PI is: 3.14
+
+
+
 
 
 
